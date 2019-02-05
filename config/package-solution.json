@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "hello-property-pane-webpart-client-side-solution",
+    "id": "46980d78-54c7-4c0b-9345-a0294274ffad",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/hello-property-pane-webpart.sppkg"
+  }
+}
